@@ -10,9 +10,9 @@ Each proposal follows a standard format and is submitted as a pull request for r
 
 To propose a new project, fork this repository, copy the proposal template, and submit a pull request.
 
-| Proposal Title | Status | Author | Link |
-|----------------|--------|--------|------|
-| _Sample Project_ | 🟡 Draft | @gabriellupu | [sample.md](sample.md) |
+| Proposal Title | Status | Author | Link | Vote |
+|----------------|--------|--------|------|------|
+| _Sample Project_ | 🟡 Draft | @gabriellupu | [sample.md](sample.md) | [Vote](https://snapshot.box/)
 
 > ✅ **Status definitions**: Draft, In Review, Approved, Rejected, Implemented
 
