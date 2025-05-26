@@ -33,6 +33,6 @@ To propose a new project, fork this repository, copy the proposal template, and 
 
 - [Whitepaper](../WHITEPAPER.md.txt)
 - [Contribution Guidelines](CONTRIBUTING.md) _(optional)_
-- [Discord Community](https://discord.gg/devhive)
+- [Discord Community]([https://discord.gg/devhive](https://discord.gg/c3gfBAF7PS))
 
 Let's build the future of decentralized software engineering together 🚀
