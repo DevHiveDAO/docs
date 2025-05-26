@@ -30,7 +30,7 @@ Welcome to the **DevHive Docs** repository — the home of all foundational docu
 To participate in DevHive:
 - Read the whitepaper
 - Propose or contribute to a project
-- Join our [Discord community](https://discord.gg/devhive)
+- Join our [Discord community](https://discord.gg/c3gfBAF7PS)
 - Vote on proposals using your DHV tokens
 
 ---
