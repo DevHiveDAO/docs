@@ -19,8 +19,9 @@ Welcome to the **DevHive Docs** repository — the home of all foundational docu
 | Section | Description |
 |---------|-------------|
 | [WHITEPAPER.md](./WHITEPAPER.md.txt) | Core vision, governance, economics, and roadmap |
-| [proposals/README.md](./proposals/README.md) | Community proposals and instructions to submit new ones |
 | [CONTRIBUTING.md](./CONTRIBUTING.md) | How to contribute to DevHive and submit proposals |
+| [proposals/README.md](./proposals/README.md) | Community proposals and instructions to submit new ones |
+
 
 ---
 
@@ -35,3 +36,7 @@ To participate in DevHive:
 ---
 
 _Together, we are building the future of decentralized software engineering._
+
+---
+
+![Contributors](https://contrib.rocks/image?repo=DevHiveDAO/docs)
